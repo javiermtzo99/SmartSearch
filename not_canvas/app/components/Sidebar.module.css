@@ -1,0 +1,56 @@
+/* components/Sidebar.module.css */
+
+.sidebar {
+    width: 100px;
+    height: 100vh;
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: #0B133C;
+    color: #ecf0f1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .logo h2 {
+    color: #ecf0f1;
+    font-size: 24px;
+  }
+  
+  .nav {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+  }
+  
+  .link {
+    padding: 15px;
+    width: 100%;
+    text-align: center;
+    text-decoration: none;
+    color: #ecf0f1;
+    transition: background 0.3s;
+    font-size: 14px;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .link:hover {
+    background-color: #34495e;
+  }
+
+  .icon {
+    margin-bottom: 8px;
+    height: 28px;
+  }
+
+  .activeLink {
+    background-color: white;
+    color: #0B133C; /* Font color for text and icon */
+  }
+  
+  .activeLink .icon {
+    color: #0B133C; /* Ensure icon color matches the text */
+  }
+  

@@ -1,0 +1,35 @@
+.panel {
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    padding: 10px;
+    background-color: #fff;
+  }
+  
+  .title {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .discussionItem {
+    padding: 10px;
+    border-bottom: 1px solid #eee;
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .discussionTitle {
+    font-size: 16px;
+    color: #0055B7; /* Blue color for the title */
+    font-weight: bold;
+  }
+  
+  .discussionDate {
+    font-size: 14px;
+    color: #666;
+  }
+  
+  .discussionItem:last-child {
+    border-bottom: none;
+  }
+  

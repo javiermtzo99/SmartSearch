@@ -1,0 +1,57 @@
+/* components/SearchBar.module.css */
+
+.searchBarModule {
+    position: relative;
+    width: 850px;
+    margin-bottom: 35px;
+  }
+  
+  .searchBar {
+    display: flex;
+    align-items: center;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    padding: 5px 10px;
+    background-color: white;
+  }
+  
+  .searchIcon {
+    margin-right: 8px;
+    color: #666;
+  }
+  
+  .searchBar input {
+    border: none;
+    outline: none;
+    width: 100%;
+  }
+  
+  .searchPopup {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    width: 100%;
+    background-color: white;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    margin-top: 5px;
+    z-index: 1000;
+    max-height: 500px;
+    overflow-y: auto;
+  }
+  
+  .resultItem {
+    padding: 10px;
+    border-bottom: 1px solid #eee;
+    cursor: pointer;
+  }
+  
+  .resultItem:hover {
+    background-color: #f0f0f0;
+  }
+  
+  .noResults {
+    padding: 10px;
+    color: #888;
+  }
+  

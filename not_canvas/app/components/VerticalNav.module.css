@@ -1,0 +1,38 @@
+/* components/VerticalNav.module.css */
+
+.navContainer {
+    padding: 10px 0;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .version {
+    margin: 10px 20px;
+    font-size: 14px;
+    color: #000;
+  }
+  
+  .nav {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .navItem {
+    padding: 10px 10px;
+    text-decoration: none;
+    color: #0055B7; 
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s, color 0.3s;
+  }
+  
+  .navItem:hover {
+    background-color: #f0f0f0;
+  }
+  
+  .activeNavItem {
+    font-weight: bold;
+    color: #000; /* Black color for active item */
+    border-left: 3px solid #2D3B45; /* Black left-side border for active item */
+  }
+  

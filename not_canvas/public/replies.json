@@ -1,0 +1,84 @@
+{
+  "2382042": [
+    {
+      "id": 1,
+      "author": "Alice Smith",
+      "text": "I think this is a great topic for discussion!",
+      "date": "Oct 19, 08:00 PM"
+    },
+    {
+      "id": 2,
+      "author": "Bob Johnson",
+      "text": "Agreed. Looking forward to more insights.",
+      "date": "Oct 19, 08:10 PM"
+    }
+  ],
+  "2379816": [
+    {
+      "id": 3,
+      "author": "Charlie Brown",
+      "text": "Innovation Hub sounds exciting!",
+      "date": "Oct 17, 06:30 PM"
+    }
+  ],
+  "2379658": [
+    {
+      "id": 4,
+      "author": "David Lee",
+      "text": "Setting up local environments can be challenging.",
+      "date": "Oct 17, 05:20 PM"
+    },
+    {
+      "id": 5,
+      "author": "Emily Davis",
+      "text": "Agreed, but cloud-based solutions are also worth considering.",
+      "date": "Oct 17, 05:35 PM"
+    }
+  ],
+  "2375553": [
+    {
+      "id": 6,
+      "author": "Frank Wright",
+      "text": "Need help with adding group members?",
+      "date": "Oct 12, 10:30 PM"
+    }
+  ],
+  "2349487": [
+    {
+      "id": 7,
+      "author": "Grace Miller",
+      "text": "Data questions are always interesting.",
+      "date": "Oct 16, 07:15 PM"
+    }
+  ],
+  "2349486": [
+    {
+      "id": 8,
+      "author": "Henry Adams",
+      "text": "What are the general rules for the hackathon?",
+      "date": "Sep 25, 07:15 PM"
+    }
+  ],
+  "2349485": [
+    {
+      "id": 9,
+      "author": "Isabella Green",
+      "text": "Mustard is the best condiment!",
+      "date": "Oct 10, 04:45 PM"
+    },
+    {
+      "id": 10,
+      "author": "Jack White",
+      "text": "I disagree, ketchup is better.",
+      "date": "Oct 10, 05:00 PM"
+    }
+  ],
+  "2349489": [
+    {
+      "id": 11,
+      "author": "Karen Thompson",
+      "text": "Looking forward to meeting the team.",
+      "date": "Oct 10, 04:45 PM"
+    }
+  ]
+}
